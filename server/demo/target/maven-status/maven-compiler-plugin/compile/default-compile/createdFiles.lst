@@ -1,0 +1,5 @@
+com/example/demo/DemoApplication.class
+rs/caslav/demo/repository/UserRepository.class
+rs/caslav/demo/DemoApplication.class
+rs/caslav/demo/controller/UserController.class
+rs/caslav/demo/model/User.class
